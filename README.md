@@ -29,6 +29,15 @@ Passionné par la conception d'applications web performantes et évolutives. Je 
 
 ---
 
+### 💻 Projets en Vedette
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **Wakatrip** | Plateforme de centralisation de l'écosysteme Touristique | Next.js, Node.Js, Fastify, Prisma, PostgreSQL | Projet en cours de développement|
+
+
+---
+
 
 ### 📬 Me Contacter
 
