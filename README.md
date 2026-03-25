@@ -1,8 +1,11 @@
 # 👋 Bonjour, je suis Zirod Judi
 
+---
+<img width="1664" height="928" alt="zirod judi 1" src="https://github.com/user-attachments/assets/4526a3b0-d0b4-48d4-ad7e-4769b2325ce5" />
+
+--
 ## 🚀 Développeur Full Stack | Next.js & Node.js
 Passionné par la conception d'applications web performantes et évolutives. Je specialize dans la création d'architectures robustes utilisant **TypeScript**, **Next.js** et **PostgreSQL**.
-<img width="1664" height="928" alt="zirod judi 1" src="https://github.com/user-attachments/assets/4526a3b0-d0b4-48d4-ad7e-4769b2325ce5" />
 
 ---
 
