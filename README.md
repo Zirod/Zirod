@@ -5,7 +5,9 @@
 ---
 
 ## 🚀 Développeur Full Stack | Next.js & Node.js
-Passionné par la conception d'applications web performantes et évolutives. Je suis spécialisé dans la création d'architectures robustes utilisant **TypeScript**, **Next.js** et **PostgreSQL**.
+Passionné par la construction d'applications web modernes, rapides et scalables. 
+**Next.js | Fastify | PostgreSQL | Prisma**
+De l’idée au produit prêt pour la production.
 
 ---
 
